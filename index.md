@@ -5,7 +5,7 @@ Here are some of my past projects
 
 # Probability and Simulation
 
-[01. Roulette Simulation](https://htmlpreview.github.io/?https://github.com/shen-yan/Probability-and-Inference-Portfolio-Shen-Yan-/blob/master/01-roulette-simulation/writeup.html)
+[01. Roulette Simulation](https://shen-yan.github.io/Probability-and-Inference-Portfolio-Shen-Yan-/blob/master/01-roulette-simulation/writeup.html)
   Use simulation to see if using Martingale Strategy will improve one's winning while playing Roulette.
 
 [02. Simulation Error](https://htmlpreview.github.io/?https://github.com/shen-yan/Probability-and-Inference-Portfolio-Shen-Yan-/blob/master/02-monte-carlo-error/writeup.html)
