@@ -1,1 +1,1 @@
-(Personal Website of Yan Shen)[shen-yan.github.io]
+[Personal Website of Yan Shen](https://shen-yan.github.io/)
