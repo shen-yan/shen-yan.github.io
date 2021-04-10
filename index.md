@@ -44,3 +44,8 @@ Here are some of my past projects
 [11. Multivariable Normal Distribution](https://shen-yan.github.io/Probability-and-Inference-Portfolio-Shen-Yan-/11-mvn/writeup.html)
 
   Study the correlation between power and sample size using multivariable normal distribution.
+  
+  
+  # Probability and Simulation
+  [1 Test](https://github.com/shen-yan/Machine-Learning-1/blob/master/Homework%201/hw1.Rmd)
+
